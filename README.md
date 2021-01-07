@@ -1,4 +1,4 @@
-# MCL_Alogorithm_CPP
+# MCL_Algorithm_CPP
 
 ### Compiling the Program
 ```sh
