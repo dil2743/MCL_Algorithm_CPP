@@ -3,8 +3,8 @@
 ### Compiling the Program
 ```sh
 $ cd /home/workspace/
-$ git clone https://github.com/dil2743/MCL_Alogorithm_CPP
-$ cd MCL_Alogorithm_CPP/
+$ git clone https://github.com/dil2743/MCL_Algorithm_CPP
+$ cd MCL_Algorithm_CPP/
 $ rm -rf Images/*
 $ g++ main.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
 ```
